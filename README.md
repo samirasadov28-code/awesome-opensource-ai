@@ -831,6 +831,7 @@
 - **[CoPaw](https://github.com/agentscope-ai/CoPaw)** ![GitHub stars](https://img.shields.io/github/stars/agentscope-ai/CoPaw?style=social) - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities. Apache-2.0 licensed.
 - **[Smart2Brain](https://github.com/your-papa/obsidian-Smart2Brain)** ![GitHub stars](https://img.shields.io/github/stars/your-papa/obsidian-Smart2Brain?style=social) - Privacy-focused Obsidian plugin for AI-powered second brain functionality. Chat with your notes using local or remote LLMs including Ollama and OpenAI. MIT licensed.
 - **[Casibase](https://github.com/casibase/casibase)** ![GitHub stars](https://img.shields.io/github/stars/casibase/casibase?style=social) - Open-source enterprise-level AI knowledge base and agent management platform. Supports multiple LLM providers, RAG, and team collaboration. Apache-2.0 licensed.
+- **[WebLLM Chat](https://github.com/mlc-ai/web-llm-chat)** ![GitHub stars](https://img.shields.io/github/stars/mlc-ai/web-llm-chat?style=social) - Private AI chat interface that runs LLMs natively in your browser using WebGPU. Server-free, privacy-focused conversations with no data leaving your device. Apache-2.0 licensed.
 
 #### Full Self-hosted AI Platforms
 
@@ -843,6 +844,7 @@
 - **[biniou](https://github.com/Woolverine94/biniou)** ![GitHub stars](https://img.shields.io/github/stars/Woolverine94/biniou?style=social) - Self-hosted webUI for 30+ generative AI models. Generate multimedia content with AI on your own computer, even without dedicated GPU (8GB RAM minimum). Works offline once deployed. GPL-3.0 licensed.
 - **[Self-hosted AI Starter Kit (n8n)](https://github.com/n8n-io/self-hosted-ai-starter-kit)** ![GitHub stars](https://img.shields.io/github/stars/n8n-io/self-hosted-ai-starter-kit?style=social) - Open-source Docker Compose template to quickly set up a local AI environment. Curated by n8n, combines self-hosted n8n with Ollama, Qdrant, and PostgreSQL for secure, self-hosted AI workflows. Apache 2.0 licensed.
 - **[CoAI](https://github.com/coaidev/coai)** ![GitHub stars](https://img.shields.io/github/stars/coaidev/coai?style=social) - Next-generation multi-tenant AI one-stop solution with built-in admin and billing system. Enterprise-grade unified LLM gateway supporting 200+ models and 35+ providers. Apache-2.0 licensed.
+- **[RAG Web UI](https://github.com/rag-web-ui/rag-web-ui)** ![GitHub stars](https://img.shields.io/github/stars/rag-web-ui/rag-web-ui?style=social) - Intelligent dialogue system based on RAG technology. Build intelligent Q&A systems on your own knowledge base with modern web interface. Apache-2.0 licensed.
 
 #### Desktop & Mobile AI Apps
 
